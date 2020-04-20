@@ -1,0 +1,11 @@
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\RGB.NET.Devices.GloriousModelO.dll
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\RGB.NET.Devices.GloriousModelO.pdb
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\RGB.NET.Devices.CorsairLink.xml
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\RGB.NET.Core.dll
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\System.ValueTuple.dll
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\bin\Debug\System.ValueTuple.xml
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\obj\Debug\RGB.NET.Devices.GloriousModelO.csproj.CopyComplete
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\obj\Debug\RGB.NET.Devices.GloriousModelO.dll
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\obj\Debug\RGB.NET.Devices.GloriousModelO.pdb
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\obj\Debug\RGB.NET.Devices.GloriousModelO.csprojAssemblyReference.cache
+C:\Users\Niels\source\repos\RGB.NET.Devices.CorsairLink-master\obj\Debug\RGB.NET.Devices.GloriousModelO.csproj.CoreCompileInputs.cache
